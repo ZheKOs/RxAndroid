@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxAndroid</string>
+    <string name="choose_example">Choose example</string>
+    <string name="reactive">Reactive</string>
+    <string name="handle_images_loading">Handle Images Loading</string>
+    <string name="work_with_network">Work with network</string>
+</resources>
